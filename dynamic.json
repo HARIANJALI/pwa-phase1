@@ -1,0 +1,50 @@
+{
+  "profile":{
+    "image":"images/icon.jpg",
+    "name":"Harika",
+    "Designation":"Student",
+    "College":"Madanapalle Institute of Technology",
+    "email":"17691A0537@mits.ac.in",
+    "mobile":"0999007890"
+
+  },
+  "Career":{
+    "info":"To seek challenging position where i can prove myself"
+  },
+  "education":
+  [  {
+    "qualification":"B.tech",
+    "Institute":"MITS",
+    "percent":"91.2%",
+    "passingyear":"2021"
+  },
+
+  {
+    "qualification":"Intermediate",
+    "Institute":"Sri Chaitanya",
+    "percent":"97.8%",
+    "passingyear":"2017"
+  },
+  {
+    "qualification":"SSC",
+    "Institute":"Bhashyam",
+    "percent":"95%",
+    "passingyear":"2015"
+  }
+
+
+],
+"skills":[
+  {
+  "name":"GameDevelopment",
+  "info": ["c","c++","Java","Buildbox"]
+
+},
+{
+  "name":"database",
+  "info":"Got a certificate of excellent in National level of Tecnical Symposium"
+
+}
+
+]
+}
